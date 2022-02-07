@@ -8,12 +8,18 @@ Thu thập hình ảnh từ camera:<space><space>
 <img src="https://user-images.githubusercontent.com/61872735/152734423-7306be5f-db6f-4c7e-90ae-f2273787a452.png">
 </p>
  
-Trích xuất toạ độ các landmarks:<space><space>
+Trích xuất toạ độ các landmarks: <space><space>
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/61872735/152734418-8b460d1d-6eda-49d4-bd04-f58123aaa81b.PNG">
 </p>
  
-Lưu toạ độ vào mảng 1 chiều<space><space>
+Lưu toạ độ vào mảng 1 chiều: <space><space>
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/61872735/152734412-377465df-718d-4b74-9976-4570d31bd597.PNG">
 </p>
+
+Một số kí tự: <space><space>
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/61872735/152735426-e68ff5d2-076d-44dd-8750-90b3be41d627.png">
+</p>
+
